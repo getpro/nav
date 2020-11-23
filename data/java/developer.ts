@@ -122,14 +122,15 @@ export default {
           icon: 'https://www.rabbitmq.com/favicon.ico',
           name: 'rabbitmq',
           desc: 'RabbitMQ是用Erlang实现的一个高并发高可靠AMQP消息队列服务器。',
-          link: 'https://www.rabbitmq.com/',
+          link: 'https://www.rabbitmq.com/'
         },
         {
           icon: 'http://logging.apache.org/favicon.ico',
           name: 'Apache Log4j2',
           desc: 'Apache Log4j2是Log4j的升级版，对Log4j的前身Log4j 1.x进行了重大改进，并提供了Logback中可用的许多改进，同时解决了Logback体系结构中的一些固有问题。',
-          link: 'http://logging.apache.org/log4j/2.x/',
+          link: 'http://logging.apache.org/log4j/2.x/'
         }
+      ]
     },
     {
       subtitle: '代码托管',
@@ -157,7 +158,7 @@ export default {
           name: 'Coding',
           desc: '面向开发者的云端开发平台，提供 git/svn 代码托管，代码质量分析，在线WebIDE，项目管理...',
           link: 'https://coding.net/',
-        },
+        }
       ]
     },
   ]
