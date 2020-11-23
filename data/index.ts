@@ -10,8 +10,10 @@ import design from './design'
 import blog from './blog'
 import operation from './operation'
 import community from './community'
+import java from './java'
 
 export default [
+  java,
   utilityTool,
   frontend,
   node,
