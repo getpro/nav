@@ -56,7 +56,7 @@ export const ERROR_ICON = 'assets/img/transparent.gif'
 export const FOOTER_DESC = ''
 
 // 百度统计
-export const TONGJI_URL = 'https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba'
+export const TONGJI_URL = 'https://hm.baidu.com/hm.js?b8285c8e5e6ca9697d9ea9bfb329913f'
 
 export const INDEX_LANGUAGE = [
   '英文',
