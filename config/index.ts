@@ -45,7 +45,7 @@ export const SEARCH_ENGINE_LIST: ISearchEngineProps[] = [
 ]
 
 // Git 仓库地址, 没有填空字符串
-export const GIT_REPO_URL = 'https://github.com/xjh22222228/nav'
+export const GIT_REPO_URL = 'https://github.com/getpro/nav'
 
 // 错误图标, 图标地址访问不了时显示
 // 建议使用网络地址，放在您任何服务器上, 减少入侵
