@@ -32,7 +32,7 @@ export default {
         {
           icon: '',
           name: 'IBM developerWorks 中国',
-          desc: '专为开发者打造的技术资源平台。在这里，有丰富的技术文章、教程、博客、Code Pattern，视频。您可以掌握前沿趋势，获取开源代码，加入全球性社区。学习，创造，共享。',
+          desc: '专为开发者打造的技术资源平台。',
           link: 'https://developer.ibm.com/zh/',
         },
         {
