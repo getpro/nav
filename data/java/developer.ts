@@ -38,19 +38,19 @@ export default {
         {
           icon: 'https://cdn.segmentfault.com/v-5fb77f84/global/img/favicon.ico',
           name: 'SegmentFault',
-          desc: 'SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。我们为中文开发者提供纯粹、高质的技术交流平台以及最前沿的技术行业动态，帮助更多的开发者获得认知和能力的提升。自社区上线以来在广大开发者群体中享有极高的口碑及影响力，以技术问答、技术专栏、技术课程、技术资讯为核心的产品形态，目前已经覆盖和服务了超过 1000 万开发者，同时 SegmentFault 思否团队也是中国区最大的黑客马拉松 Hackathon 创新力赛事组织者。 腾讯、阿里、百度、美团、京东、滴滴、360等上千个技术团队已经入驻思否社区，我们也欢迎热爱技术的你一起加入交流与学习。',
+          desc: 'SegmentFault 思否是中国领先的新一代开发者社区和专业的技术媒体。',
           link: 'https://segmentfault.com/',
         },
         {
           icon: 'https://static0.tuicool.com/favicon.ico',
           name: '推酷',
-          desc: '推酷网是面向IT人的个性化阅读网站，其背后的推荐引擎通过智能化的分析，向用户推荐感兴趣的科技资讯、产品设计、网络营销、技术文章等内容。推酷活动聚合互联网线上活动和线下活动,为你推荐感兴趣的圈内活动。',
+          desc: '推酷网是面向IT人的个性化阅读网站',
           link: 'https://www.tuicool.com/',
         },
         {
           icon: 'https://g.csdnimg.cn/static/logo/favicon32.ico',
           name: 'CSDN',
-          desc: 'CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区.',
+          desc: 'CSDN是全球知名中文IT技术交流平台.',
           link: 'https://www.csdn.net/',
         },
         {
@@ -62,20 +62,14 @@ export default {
         {
           icon: '',
           name: '博客园 - 开发者的网上家园',
-          desc: '博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。',
+          desc: '博客园是一个面向开发者的知识分享社区。',
           link: 'https://www.cnblogs.com/'
         },
         {
           icon: 'https://www.iteye.com/images/favicon.ico',
           name: 'ITeye',
-          desc: 'Java编程,Spring Struts Webwork框架深入,XMLHTTP Ajax开发,Java Web开发,Java企业应用,Java设计模式,Java开源框架,Java应用服务器,Rich Client讨论,Ruby编程,Ruby DSL开发,Ruby on rails实践,JavaScript编程,敏捷软件开发XP TDD,软件配置管理,软件测试,项目管理UML,数据库,C#/.net C/C++ Erlang/FP PHP/Linux平台,精通Hibernate',
+          desc: 'Java编程',
           link: 'https://www.iteye.com/',
-        },
-        {
-          icon: 'https://developer.mozilla.org/favicon.ico',
-          name: 'MDN web docs',
-          desc: 'Mozilla 开发者社区，是一个完整的学习平台，你可以在这里深入学习Web技术以及能够驱动Web的软件',
-          link: 'https://developer.mozilla.org/zh-CN/',
         },
         {
           icon: 'https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico',
@@ -86,7 +80,7 @@ export default {
         {
           icon: 'http://blog.chinaunix.net/favicon.ico',
           name: 'Java-Chinaunix',
-          desc: 'ChinaUnix博客每天千篇余篇博文新资讯，40多万活跃博主，为IT技术人提供最全面的IT资讯和交流互动的IT博客平台-中国最专业的IT技术ChinaUnix博客。',
+          desc: '中国最专业的IT技术ChinaUnix博客。',
           link: 'http://blog.chinaunix.net/',
         },
       ]
@@ -127,7 +121,7 @@ export default {
         {
           icon: 'http://logging.apache.org/favicon.ico',
           name: 'Apache Log4j2',
-          desc: 'Apache Log4j2是Log4j的升级版，对Log4j的前身Log4j 1.x进行了重大改进，并提供了Logback中可用的许多改进，同时解决了Logback体系结构中的一些固有问题。',
+          desc: 'Apache Log4j2是Log4j的升级版',
           link: 'http://logging.apache.org/log4j/2.x/'
         }
       ]
